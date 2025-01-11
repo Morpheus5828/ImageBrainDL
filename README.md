@@ -1,4 +1,4 @@
-<h1>ImageBrainDL</h1> 
+# ImageBrainDL
 # Introduction
 
 The objective of our study is to assess the extent to which computer vision models, trained on large datasets, <br>
