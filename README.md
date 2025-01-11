@@ -148,6 +148,11 @@ pip install git+https://github.com/brain-score/vision.git
 pip install -r requirements.txt
 ```
 
+Please run demo graph to compare models and dataset:
+
+```shell
+python demos\demo_benchmark.py
+```
 
 ## Authors
 - Marius THORRE (M2-IAAA)
