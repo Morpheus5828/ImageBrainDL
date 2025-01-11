@@ -1,7 +1,0 @@
-,model,layer,region,score
-0,alexnet,features.2,IT,0.12068756740806387
-1,alexnet,features.2,V4,0.09188487649076102
-2,alexnet,features.7,IT,0.14552759503130697
-3,alexnet,features.7,V4,0.08810310910203399
-4,alexnet,features.12,IT,0.2936438135575295
-5,alexnet,features.12,V4,0.1333696382356754
